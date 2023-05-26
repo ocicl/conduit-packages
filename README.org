@@ -1,0 +1,9 @@
+* conduit-packages
+
+Conduit packages for Common Lisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/tfeb/conduit-packages.git |
+| commit  | c89e89c                                          |
+| systems | org.tfeb.conduit-packages                        |
+|---------+--------------------------------------------------|
