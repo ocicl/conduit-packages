@@ -4,6 +4,6 @@ Conduit packages for Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/tfeb/conduit-packages.git |
-| commit  | 574b3aa                                          |
+| commit  | d5bf983                                          |
 | systems | org.tfeb.conduit-packages                        |
 |---------+--------------------------------------------------|
